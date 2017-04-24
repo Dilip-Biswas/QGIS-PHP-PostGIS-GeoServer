@@ -1,0 +1,7 @@
+QGIS-PHP-PostGIS-GeoServer based Application is under Construction -
+
+Here differnt Point of Interests will be highlighted and shown in the Map of Karlsruhe City.
+POIs can also be changed and Update the Information by Themselves through CRUD System.
+WMS, WFS, WCS Interface will be added from the Geoserver.
+The Backend data will be shown through the PHP, GeoJSON, PostGIS Technologies.
+The Frontend data will be highlighted through the QGIS, Google Map APIs, JavaScript.
